@@ -3,20 +3,17 @@
 An Multi purpose Bot Which Can :-
 * ✅Rename Telegram Files 
 * ✅Convert Files into Video 
-* ✅ Download Videos From Zee5 ( Thanks To [TroJanzHEX](https://github.com/TroJanzHEX/Zee5-Downloader) For the code) 
+* ✅ Download Videos From Zee5
 
 
 
 ### You can tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/No-OnE-Kn0wS-Me/FileRenameBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fkokeralam123/FileRenameBot)
 
-If you Find Any Bugs Or Want to Give Your Feedbacks Then Kindly Contact Us Through [Telegram ](https://telegram.dog/No_OnE_Kn0wS_Me) 
-Also Support Our Channel [Mai_bOTs](https://telegram.dog/Mai_bOTs) 
+If you Find Any Bugs Or Want to Give Your Feedbacks Then Kindly Contact Us Through [Telegram ](https://telegram.dog/fko63) 
+Also Support Our Channel [FKO KERALAM MOVIES](https://telegram.dog/fko_keralam_movies) 
 
 ## Credits, and Thanks to Beloved Developers ;
 
-* [SpEcHlDe](https://telegram.dog/SpEcHlDe) 
-* [Dan Tès](https://telegram.dog/haskell) 
-* [Yoily](https://telegram.dog/YoilyL)
-* [Anand](https://telegram.dog/Anandpskerala)
+* [FKO KERALAM](https://telegram.dog/fko63)
